@@ -1,5 +1,6 @@
 # SHAPEAI WEB DEV BOOTCAMP
-<li><a href= "https://Projectnew.thapaswilingaba.repl.co">WEB DEV BOOTCAMP</a><li>
+<li><a href= "https://Projectnew.thapaswilingaba.repl.co">WEB DEV BOOTCAMP - WEBSITE</a><li>
+<li><a href= "https://github.com/LingabathulaThapaswi/LingabathulaThapaswi1.github.io/edit/main/README.md">WEB DEV BOOTCAMP-GIT REPO</a><li>
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
